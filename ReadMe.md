@@ -15,12 +15,12 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone https://github.com/GeraldKisilu/SA-02-WK2-Code-Challenge.git
 
 ```
 
 # Live Link
-[Git]()
+[Git](https://github.com/GeraldKisilu/SA-02-WK2-Code-Challenge.git)
 
 ## Technologies used
 Github
